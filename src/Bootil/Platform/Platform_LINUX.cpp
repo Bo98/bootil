@@ -20,7 +20,7 @@
 #include <sys/wait.h>
 
 #ifdef X11_GRAPHICAL
-#include <X11/Xlib.h>
+#include <X11/Xlib.h
 #endif
 
 extern char* program_invocation_name;
